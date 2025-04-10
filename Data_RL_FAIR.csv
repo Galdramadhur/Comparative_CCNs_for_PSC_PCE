@@ -1,116 +1,116 @@
-Cell_ID;Cell_Architecture;Before_Encap_Img_Path;After_Encap_Img_Path;Pixel_ID;Bias;Light;Eff_before [%];Eff_after [%]
-S9;FTO/CB-TiO2/MP-TiO2/Triple Cation/Spiro/Au;Before_Encap/S9.png;After_Encap/S9en.png;A;R;L;19.85699;19.19483
-S9;FTO/CB-TiO2/MP-TiO2/Triple Cation/Spiro/Au;Before_Encap/S9.png;After_Encap/S9en.png;B;R;L;15.99009;16.32727
-S9;FTO/CB-TiO2/MP-TiO2/Triple Cation/Spiro/Au;Before_Encap/S9.png;After_Encap/S9en.png;C;R;L;17.50959;15.02241
-S10;FTO/CB-TiO2/MP-TiO2/Triple Cation/Spiro/Au;Before_Encap/S10.png;After_Encap/S10en.png;A;R;L;17.56009;16.85725
-S10;FTO/CB-TiO2/MP-TiO2/Triple Cation/Spiro/Au;Before_Encap/S10.png;After_Encap/S10en.png;B;R;L;7.84749;12.90423
-S10;FTO/CB-TiO2/MP-TiO2/Triple Cation/Spiro/Au;Before_Encap/S10.png;After_Encap/S10en.png;C;R;L;16.31126;15.01709
-S11;FTO/CB-TiO2/MP-TiO2/Triple Cation/Spiro/Au;Before_Encap/S11.png;After_Encap/S11en.png;A;R;L;17.76812;13.31069
-S11;FTO/CB-TiO2/MP-TiO2/Triple Cation/Spiro/Au;Before_Encap/S11.png;After_Encap/S11en.png;B;R;L;17.98567;5.67737
-S11;FTO/CB-TiO2/MP-TiO2/Triple Cation/Spiro/Au;Before_Encap/S11.png;After_Encap/S11en.png;C;R;L;16.32712;13.64642
-S12;FTO/CB-TiO2/MP-TiO2/Triple Cation/Spiro/Au;Before_Encap/S12.png;After_Encap/S12en.png;A;R;L;8.490718;8.858709
-S12;FTO/CB-TiO2/MP-TiO2/Triple Cation/Spiro/Au;Before_Encap/S12.png;After_Encap/S12en.png;B;R;L;13.34772;13.84772
-S12;FTO/CB-TiO2/MP-TiO2/Triple Cation/Spiro/Au;Before_Encap/S12.png;After_Encap/S12en.png;C;R;L;11.3731;10.57621
-S13;FTO/CB-TiO2/MP-TiO2/Triple Cation/Spiro/Au;Before_Encap/S13.png;After_Encap/S13en.png;A;R;L;12.29911;11.08382
-S13;FTO/CB-TiO2/MP-TiO2/Triple Cation/Spiro/Au;Before_Encap/S13.png;After_Encap/S13en.png;B;R;L;9.303138;7.64981
-S13;FTO/CB-TiO2/MP-TiO2/Triple Cation/Spiro/Au;Before_Encap/S13.png;After_Encap/S13en.png;C;R;L;15.54639;15.02509
-S14;FTO/CB-TiO2/MP-TiO2/Triple Cation/Spiro/Au;Before_Encap/S14.png;After_Encap/S14en.png;A;R;L;15.12185;12.9087
-S14;FTO/CB-TiO2/MP-TiO2/Triple Cation/Spiro/Au;Before_Encap/S14.png;After_Encap/S14en.png;B;R;L;13.50658;11.83231
-S14;FTO/CB-TiO2/MP-TiO2/Triple Cation/Spiro/Au;Before_Encap/S14.png;After_Encap/S14en.png;C;R;L;12.66815;16.19602
-S15;FTO/CB-TiO2/MP-TiO2/Triple Cation/Spiro/Au;Before_Encap/S15.png;After_Encap/S15en.png;A;R;L;13.20612;15.26613
-S15;FTO/CB-TiO2/MP-TiO2/Triple Cation/Spiro/Au;Before_Encap/S15.png;After_Encap/S15en.png;B;R;L;14.21507;16.19861
-S15;FTO/CB-TiO2/MP-TiO2/Triple Cation/Spiro/Au;Before_Encap/S15.png;After_Encap/S15en.png;C;R;L;16.70227;15.83177
-S16;FTO/CB-TiO2/MP-TiO2/Triple Cation/Spiro/Au;Before_Encap/S16.png;After_Encap/S16en.png;A;R;L;11.70475;9.889041
-S16;FTO/CB-TiO2/MP-TiO2/Triple Cation/Spiro/Au;Before_Encap/S16.png;After_Encap/S16en.png;B;R;L;15.05331;12.97486
-S16;FTO/CB-TiO2/MP-TiO2/Triple Cation/Spiro/Au;Before_Encap/S16.png;After_Encap/S16en.png;C;R;L;11.37359;14.71117
-S17;FTO/C-TiO2/m-TiO2 doped Li/Perovskite/Spiro-OmeTAD/Au;Before_Encap/S17.png;After_Encap/S17en.png;B;R;L;1.56453112705511;8.59836367608889
-S17;FTO/C-TiO2/m-TiO2 doped Li/Perovskite/Spiro-OMeTAD/Au ;Before_Encap/S17.png;After_Encap/S17en.png;A;R;L;1.16492832294233;7.703293391696
-S18;FTO/C-TiO2/m-TiO2 doped Li/Perovskite/Spiro-OMeTAD/Au ;Before_Encap/S18.png;After_Encap/S18en.png;B;R;L;15.6322826165867;7.83549107176178
-S18;FTO/C-TiO2/m-TiO2 doped Li/Perovskite/Spiro-OMeTAD/Au ;Before_Encap/S18.png;After_Encap/S18en.png;A;R;L;14.7507061756389;7.20528365955767
-S18;FTO/C-TiO2/m-TiO2 doped Li/Perovskite/Spiro-OMeTAD/Au ;Before_Encap/S18.png;After_Encap/S18en.png;C;R;L;14.0538428922544;10.9829507768967
-S19;FTO/C-TiO2/m-TiO2 doped Li/Perovskite/Spiro-OMeTAD/Au ;Before_Encap/S19.png;After_Encap/S19en.png;A;R;L;0.01100412249232;0.010959035165213
-S19;FTO/C-TiO2/m-TiO2 doped Li/Perovskite/Spiro-OMeTAD/Au ;Before_Encap/S19.png;After_Encap/S19en.png;B;R;L;4.53771439229889;10.3543141262311
-S20;FTO/C-TiO2/m-TiO2/Cs0.05FA0.79MA0.16Pb(I0.86Br0.14)3/ Spiro-OMeTAD/Au;Before_Encap/S20.png;After_Encap/S20en.png;A;R;L;16.16;17.65
-S20;FTO/C-TiO2/m-TiO2/Cs0.05FA0.79MA0.16Pb(I0.86Br0.14)3/ Spiro-OMeTAD/Au;Before_Encap/S20.png;After_Encap/S20en.png;B;R;L;14.41;18.77
-S20;FTO/C-TiO2/m-TiO2/Cs0.05FA0.79MA0.16Pb(I0.86Br0.14)3/ Spiro-OMeTAD/Au;Before_Encap/S20.png;After_Encap/S20en.png;C;R;L;17.53;18.92
-Pr1;Glass/C-TiO2/m-TiO2/Cs0.05FA0.79MA0.16Pb(I0.86Br0.14)3/ Spiro-OMeTAD/Au;Before_Encap/Pr1.png;After_Encap/Pr1en.png;A;R;L;16.1;12.52
-Pr1;Glass/C-TiO2/m-TiO2/Cs0.05FA0.79MA0.16Pb(I0.86Br0.14)3/ Spiro-OMeTAD/Au;Before_Encap/Pr1.png;After_Encap/Pr1en.png;B;R;L;7.24;6.5
-Pr1;Glass/C-TiO2/m-TiO2/Cs0.05FA0.79MA0.16Pb(I0.86Br0.14)3/ Spiro-OMeTAD/Au;Before_Encap/Pr1.png;After_Encap/Pr1en.png;C;R;L;17.64;17.69
-Pr2;Glass/C-TiO2/m-TiO2/Cs0.05FA0.79MA0.16Pb(I0.86Br0.14)3/ Spiro-OMeTAD/Au;Before_Encap/Pr2.png;After_Encap/Pr2en.png;A;R;L;15.63;17.56
-Pr2;Glass/C-TiO2/m-TiO2/Cs0.05FA0.79MA0.16Pb(I0.86Br0.14)3/ Spiro-OMeTAD/Au;Before_Encap/Pr2.png;After_Encap/Pr2en.png;B;R;L;17.22;18.12
-Pr2;Glass/C-TiO2/m-TiO2/Cs0.05FA0.79MA0.16Pb(I0.86Br0.14)3/ Spiro-OMeTAD/Au;Before_Encap/Pr2.png;After_Encap/Pr2en.png;C;R;L;16.27;17.89
-Cu1;FTO/CB-TiO2/MP-TiO2/Triple Cation/CuSCN/Au;Before_Encap/Cu1.png;After_Encap/Cu1en.png;A;R;L;17.01267;13.73242
-Cu1;FTO/CB-TiO2/MP-TiO2/Triple Cation/CuSCN/Au;Before_Encap/Cu1.png;After_Encap/Cu1en.png;B;R;L;16.32202;14.75207
-Cu1;FTO/CB-TiO2/MP-TiO2/Triple Cation/CuSCN/Au;Before_Encap/Cu1.png;After_Encap/Cu1en.png;C;R;L;15.69373;9.168269
-Cu2;FTO/CB-TiO2/MP-TiO2/Triple Cation/CuSCN/Au;Before_Encap/Cu2.png;After_Encap/Cu2en.png;A;R;L;15.70415;13.18345
-Cu2;FTO/CB-TiO2/MP-TiO2/Triple Cation/CuSCN/Au;Before_Encap/Cu2.png;After_Encap/Cu2en.png;B;R;L;15.58985;13.80144
-Cu2;FTO/CB-TiO2/MP-TiO2/Triple Cation/CuSCN/Au;Before_Encap/Cu2.png;After_Encap/Cu2en.png;C;R;L;14.67323;8.582545
-Cu3;FTO/CB-TiO2/MP-TiO2/Triple Cation/CuSCN/Au;Before_Encap/Cu3.png;After_Encap/Cu3en.png;A;R;L;13.67753;12.90101
-Cu3;FTO/CB-TiO2/MP-TiO2/Triple Cation/CuSCN/Au;Before_Encap/Cu3.png;After_Encap/Cu3en.png;B;R;L;14.79977;14.43985
-Cu3;FTO/CB-TiO2/MP-TiO2/Triple Cation/CuSCN/Au;Before_Encap/Cu3.png;After_Encap/Cu3en.png;C;R;L;15.02067;9.299509
-Cu4;FTO/CB-TiO2/MP-TiO2/Triple Cation/CuSCN/Au;Before_Encap/Cu4.png;After_Encap/Cu4en.png;A;R;L;15.56761;13.05355
-Cu4;FTO/CB-TiO2/MP-TiO2/Triple Cation/CuSCN/Au;Before_Encap/Cu4.png;After_Encap/Cu4en.png;B;R;L;15.4565;9.519791
-Cu4;FTO/CB-TiO2/MP-TiO2/Triple Cation/CuSCN/Au;Before_Encap/Cu4.png;After_Encap/Cu4en.png;C;R;L;15.17566;12.08728
-Cu5;FTO/CB-TiO2/MP-TiO2/Triple Cation/CuSCN/Au;Before_Encap/Cu5.png;After_Encap/Cu5en.png;A;R;L;13.4949;10.33152
-Cu5;FTO/CB-TiO2/MP-TiO2/Triple Cation/CuSCN/Au;Before_Encap/Cu5.png;After_Encap/Cu5en.png;B;R;L;16.84228;13.78195
-Cu5;FTO/CB-TiO2/MP-TiO2/Triple Cation/CuSCN/Au;Before_Encap/Cu5.png;After_Encap/Cu5en.png;C;R;L;9.734857;8.694616
-Cu6;FTO/CB-TiO2/MP-TiO2/Triple Cation/CuSCN/Au;Before_Encap/Cu6.png;After_Encap/Cu6en.png;A;R;L;13.82748;11.42064
-Cu6;FTO/CB-TiO2/MP-TiO2/Triple Cation/CuSCN/Au;Before_Encap/Cu6.png;After_Encap/Cu6en.png;B;R;L;16.41483;13.97514
-Cu6;FTO/CB-TiO2/MP-TiO2/Triple Cation/CuSCN/Au;Before_Encap/Cu6.png;After_Encap/Cu6en.png;C;R;L;16.08726;13.17596
-Cu7;FTO/CB-TiO2/MP-TiO2/Triple Cation/CuSCN/Au;Before_Encap/Cu7.png;After_Encap/Cu7en.png;A;R;L;16.41352;6.454735
-Cu7;FTO/CB-TiO2/MP-TiO2/Triple Cation/CuSCN/Au;Before_Encap/Cu7.png;After_Encap/Cu7en.png;B;R;L;15.6058;13.73921
-Cu7;FTO/CB-TiO2/MP-TiO2/Triple Cation/CuSCN/Au;Before_Encap/Cu7.png;After_Encap/Cu7en.png;C;R;L;14.53609;7.843762
-Cu8;FTO/CB-TiO2/MP-TiO2/Triple Cation/CuSCN/Au;Before_Encap/Cu8.png;After_Encap/Cu8en.png;A;R;L;9.298724;6.280061
-Cu8;FTO/CB-TiO2/MP-TiO2/Triple Cation/CuSCN/Au;Before_Encap/Cu8.png;After_Encap/Cu8en.png;B;R;L;15.50419;9.55875
-Cu8;FTO/CB-TiO2/MP-TiO2/Triple Cation/CuSCN/Au;Before_Encap/Cu8.png;After_Encap/Cu8en.png;C;R;L;15.0738;9.423576
-Cu9;FTO/C-TiO2/m-TiO2/Cs0.05FA0.79MA0.16Pb(I0.86Br0.14)3/CuSCN /Au;Before_Encap/Cu9.png;After_Encap/Cu9en.png;A;R;L;14.26;16.4535906
-Cu9;FTO/C-TiO2/m-TiO2/Cs0.05FA0.79MA0.16Pb(I0.86Br0.14)3/CuSCN /Au;Before_Encap/Cu9.png;After_Encap/Cu9en.png;B;R;L;14.34;16.3129154
-Cu9;FTO/C-TiO2/m-TiO2/Cs0.05FA0.79MA0.16Pb(I0.86Br0.14)3/CuSCN /Au;Before_Encap/Cu9.png;After_Encap/Cu9en.png;C;R;L;12.52;15.6410392
-Sn9;FTO/SnO2/Triple Cation/Spiro/Au;Before_Encap/Sn9.png;After_Encap/Sn9en.png;A;R;L;6.599325;5.880285
-Sn9;FTO/SnO2/Triple Cation/Spiro/Au;Before_Encap/Sn9.png;After_Encap/Sn9en.png;B;R;L;10.40624;11.93723
-Sn9;FTO/SnO2/Triple Cation/Spiro/Au;Before_Encap/Sn9.png;After_Encap/Sn9en.png;C;R;L;6.671717;6.01673
-Sn10;FTO/SnO2/Triple Cation/Spiro/Au;Before_Encap/Sn10.png;After_Encap/Sn10en.png;A;R;L;1.330582;1.36222
-Sn10;FTO/SnO2/Triple Cation/Spiro/Au;Before_Encap/Sn10.png;After_Encap/Sn10en.png;B;R;L;5.858238;3.312889
-Sn10;FTO/SnO2/Triple Cation/Spiro/Au;Before_Encap/Sn10.png;After_Encap/Sn10en.png;C;R;L;12.30389;10.30935
-Sn11;FTO/SnO2/Triple Cation/Spiro/Au;Before_Encap/Sn11.png;After_Encap/Sn11en.png;A;R;L;13.31069;7.563878
-Sn11;FTO/SnO2/Triple Cation/Spiro/Au;Before_Encap/Sn11.png;After_Encap/Sn11en.png;B;R;L;5.67737;5.571686
-Sn11;FTO/SnO2/Triple Cation/Spiro/Au;Before_Encap/Sn11.png;After_Encap/Sn11en.png;C;R;L;13.64642;11.63475
-Sn12;FTO/SnO2/Triple Cation/Spiro/Au;Before_Encap/Sn12.png;After_Encap/Sn12en.png;A;R;L;8.490718;8.858709
-Sn12;FTO/SnO2/Triple Cation/Spiro/Au;Before_Encap/Sn12.png;After_Encap/Sn12en.png;B;R;L;13.34772;13.84772
-Sn12;FTO/SnO2/Triple Cation/Spiro/Au;Before_Encap/Sn12.png;After_Encap/Sn12en.png;C;R;L;11.3731;10.57621
-Sn13;FTO/SnO2/Triple Cation/Spiro/Au;Before_Encap/Sn13.png;After_Encap/Sn13en.png;A;R;L;12.29911;11.08382
-Sn13;FTO/SnO2/Triple Cation/Spiro/Au;Before_Encap/Sn13.png;After_Encap/Sn13en.png;B;R;L;9.303138;7.64981
-Sn13;FTO/SnO2/Triple Cation/Spiro/Au;Before_Encap/Sn13.png;After_Encap/Sn13en.png;C;R;L;15.54639;15.02509
-Sn14;FTO/SnO2/Triple Cation/Spiro/Au;Before_Encap/Sn14.png;After_Encap/Sn14en.png;A;R;L;15.12185;12.9087
-Sn14;FTO/SnO2/Triple Cation/Spiro/Au;Before_Encap/Sn14.png;After_Encap/Sn14en.png;B;R;L;13.50658;11.83231
-Sn14;FTO/SnO2/Triple Cation/Spiro/Au;Before_Encap/Sn14.png;After_Encap/Sn14en.png;C;R;L;12.66815;16.19602
-Sn15;FTO/SnO2/Triple Cation/Spiro/Au;Before_Encap/Sn15.png;After_Encap/Sn15en.png;A;R;L;13.20612;15.26613
-Sn15;FTO/SnO2/Triple Cation/Spiro/Au;Before_Encap/Sn15.png;After_Encap/Sn15en.png;B;R;L;14.21507;16.19861
-Sn15;FTO/SnO2/Triple Cation/Spiro/Au;Before_Encap/Sn15.png;After_Encap/Sn15en.png;C;R;L;16.70227;15.83177
-Sn16;FTO/SnO2/Triple Cation/Spiro/Au;Before_Encap/Sn16.png;After_Encap/Sn16en.png;A;R;L;11.70475;9.889041
-Sn16;FTO/SnO2/Triple Cation/Spiro/Au;Before_Encap/Sn16.png;After_Encap/Sn16en.png;B;R;L;15.05331;12.97486
-Sn16;FTO/SnO2/Triple Cation/Spiro/Au;Before_Encap/Sn16.png;After_Encap/Sn16en.png;C;R;L;11.37359;14.71117
-RK1;FTO/C-TiO2/m-TiO2 doped Li /Perovskite/RK/Spiro-OMeTAD/Au ;Before_Encap/RK1.png;After_Encap/RK1en.png;A;R;L;0.942226548479667;1.922387399864
-RK1;FTO/C-TiO2/m-TiO2 doped Li /Perovskite/RK/Spiro-OMeTAD/Au ;Before_Encap/RK1.png;After_Encap/RK1en.png;B;R;L;1.94647132209333;2.26077807509067
-RK1;FTO/C-TiO2/m-TiO2 doped Li /Perovskite/RK/Spiro-OMeTAD/Au ;Before_Encap/RK1.png;After_Encap/RK1en.png;C;R;L;1.812021469818;1.40380404568067
-RK2;FTO/C-TiO2/m-TiO2 doped Li /Perovskite/RK/Spiro-OMeTAD/Au ;Before_Encap/RK2.png;After_Encap/RK2en.png;A;R;L;10.8571548905278;6.20137007465833
-RK2;FTO/C-TiO2/m-TiO2 doped Li /Perovskite/RK/Spiro-OMeTAD/Au ;Before_Encap/RK2.png;After_Encap/RK2en.png;B;R;L;9.41806370054667;8.98993639775
-RK2;FTO/C-TiO2/m-TiO2 doped Li /Perovskite/RK/Spiro-OMeTAD/Au ;Before_Encap/RK2.png;After_Encap/RK2en.png;C;R;L;7.58441962156667;8.66059792778444
-2DPS1;FTO/C-TiO2/m-TiO2/Cs0.05FA0.79MA0.16Pb(I0.86Br0.14)3/2D perovskite/ Spiro-OMeTAD/Au;Before_Encap/2DPS1.png;After_Encap/2DPS1en.png;A;R;L;17.73;17.39
-2DPS1;FTO/C-TiO2/m-TiO2/Cs0.05FA0.79MA0.16Pb(I0.86Br0.14)3/2D perovskite/ Spiro-OMeTAD/Au;Before_Encap/2DPS1.png;After_Encap/2DPS1en.png;B;R;L;17.98;18.13
-2DPS1;FTO/C-TiO2/m-TiO2/Cs0.05FA0.79MA0.16Pb(I0.86Br0.14)3/2D perovskite/ Spiro-OMeTAD/Au;Before_Encap/2DPS1.png;After_Encap/2DPS1en.png;C;R;L;12.3;18.08
-2DPCu1;FTO/C-TiO2/m-TiO2/Cs0.05FA0.79MA0.16Pb(I0.86Br0.14)3/2D perovskite/CuSCN /Au;Before_Encap/2DPCu1.png;After_Encap/2DPCu1en.png;A;R;L;6.81;16.07
-2DPCu1;FTO/C-TiO2/m-TiO2/Cs0.05FA0.79MA0.16Pb(I0.86Br0.14)3/2D perovskite/CuSCN /Au;Before_Encap/2DPCu1.png;After_Encap/2DPCu1en.png;B;R;L;13.63;16.84
-2DPCu1;FTO/C-TiO2/m-TiO2/Cs0.05FA0.79MA0.16Pb(I0.86Br0.14)3/2D perovskite/CuSCN /Au;Before_Encap/2DPCu1.png;After_Encap/2DPCu1en.png;C;R;L;15.04;17.25
-5Trypt1;Glass/C-TiO2/m-TiO2/Cs0.05FA0.79MA0.16Pb(I0.86Br0.14)3/Tryptophan/ Spiro-OMeTAD/Au;Before_Encap/5Trypt1.png;After_Encap/5Trypt1en.png;A;R;L;11.95;10.4
-5Trypt1;Glass/C-TiO2/m-TiO2/Cs0.05FA0.79MA0.16Pb(I0.86Br0.14)3/Tryptophan/ Spiro-OMeTAD/Au;Before_Encap/5Trypt1.png;After_Encap/5Trypt1en.png;B;R;L;12.6;11.62
-5Trypt1;Glass/C-TiO2/m-TiO2/Cs0.05FA0.79MA0.16Pb(I0.86Br0.14)3/Tryptophan/ Spiro-OMeTAD/Au;Before_Encap/5Trypt1.png;After_Encap/5Trypt1en.png;C;R;L;13.46;11.37
-5Trypt2;Glass/C-TiO2/m-TiO2/Cs0.05FA0.79MA0.16Pb(I0.86Br0.14)3/Tryptophan/ Spiro-OMeTAD/Au;Before_Encap/5Trypt2.png;After_Encap/5Trypt2en.png;A;R;L;13.55;4.62
-5Trypt2;Glass/C-TiO2/m-TiO2/Cs0.05FA0.79MA0.16Pb(I0.86Br0.14)3/Tryptophan/ Spiro-OMeTAD/Au;Before_Encap/5Trypt2.png;After_Encap/5Trypt2en.png;B;R;L;15.2;6.5
-5Trypt2;Glass/C-TiO2/m-TiO2/Cs0.05FA0.79MA0.16Pb(I0.86Br0.14)3/Tryptophan/ Spiro-OMeTAD/Au;Before_Encap/5Trypt2.png;After_Encap/5Trypt2en.png;C;R;L;6.4;6.45
-15Trypt1;Glass/C-TiO2/m-TiO2/Cs0.05FA0.79MA0.16Pb(I0.86Br0.14)3/Tryptophan/ Spiro-OMeTAD/Au;Before_Encap/15Trypt1.png;After_Encap/15Trypt1en.png;A;R;L;5.69;6.43
-15Trypt1;Glass/C-TiO2/m-TiO2/Cs0.05FA0.79MA0.16Pb(I0.86Br0.14)3/Tryptophan/ Spiro-OMeTAD/Au;Before_Encap/15Trypt1.png;After_Encap/15Trypt1en.png;B;R;L;3.89;5.72
-15Trypt1;Glass/C-TiO2/m-TiO2/Cs0.05FA0.79MA0.16Pb(I0.86Br0.14)3/Tryptophan/ Spiro-OMeTAD/Au;Before_Encap/15Trypt1.png;After_Encap/15Trypt1en.png;C;R;L;7.93;7.17
-15Trypt2;Glass/C-TiO2/m-TiO2/Cs0.05FA0.79MA0.16Pb(I0.86Br0.14)3/Tryptophan/ Spiro-OMeTAD/Au;Before_Encap/15Trypt2.png;After_Encap/15Trypt2en.png;A;R;L;2.84;6.89
-15Trypt2;Glass/C-TiO2/m-TiO2/Cs0.05FA0.79MA0.16Pb(I0.86Br0.14)3/Tryptophan/ Spiro-OMeTAD/Au;Before_Encap/15Trypt2.png;After_Encap/15Trypt2en.png;B;R;L;2.85;7.51
-15Trypt2;Glass/C-TiO2/m-TiO2/Cs0.05FA0.79MA0.16Pb(I0.86Br0.14)3/Tryptophan/ Spiro-OMeTAD/Au;Before_Encap/15Trypt2.png;After_Encap/15Trypt2en.png;C;R;L;2.65;3.95
+Cell_ID,Cell_Architecture,Before_Encap_Img_Path,After_Encap_Img_Path,Pixel_ID,Bias,Light,Eff_before [%],Eff_after [%]
+S9,FTO/CB-TiO2/MP-TiO2/Triple Cation/Spiro/Au,Before_Encap/S9.png,After_Encap/S9en.png,A,R,L,19.85699,19.19483
+S9,FTO/CB-TiO2/MP-TiO2/Triple Cation/Spiro/Au,Before_Encap/S9.png,After_Encap/S9en.png,B,R,L,15.99009,16.32727
+S9,FTO/CB-TiO2/MP-TiO2/Triple Cation/Spiro/Au,Before_Encap/S9.png,After_Encap/S9en.png,C,R,L,17.50959,15.02241
+S10,FTO/CB-TiO2/MP-TiO2/Triple Cation/Spiro/Au,Before_Encap/S10.png,After_Encap/S10en.png,A,R,L,17.56009,16.85725
+S10,FTO/CB-TiO2/MP-TiO2/Triple Cation/Spiro/Au,Before_Encap/S10.png,After_Encap/S10en.png,B,R,L,7.84749,12.90423
+S10,FTO/CB-TiO2/MP-TiO2/Triple Cation/Spiro/Au,Before_Encap/S10.png,After_Encap/S10en.png,C,R,L,16.31126,15.01709
+S11,FTO/CB-TiO2/MP-TiO2/Triple Cation/Spiro/Au,Before_Encap/S11.png,After_Encap/S11en.png,A,R,L,18.33022,17.76812
+S11,FTO/CB-TiO2/MP-TiO2/Triple Cation/Spiro/Au,Before_Encap/S11.png,After_Encap/S11en.png,B,R,L,17.99486,17.98567
+S11,FTO/CB-TiO2/MP-TiO2/Triple Cation/Spiro/Au,Before_Encap/S11.png,After_Encap/S11en.png,C,R,L,17.90552,16.32712
+S12,FTO/CB-TiO2/MP-TiO2/Triple Cation/Spiro/Au,Before_Encap/S12.png,After_Encap/S12en.png,A,R,L,18.71223,17.52231
+S12,FTO/CB-TiO2/MP-TiO2/Triple Cation/Spiro/Au,Before_Encap/S12.png,After_Encap/S12en.png,B,R,L,19.16756,16.12782
+S12,FTO/CB-TiO2/MP-TiO2/Triple Cation/Spiro/Au,Before_Encap/S12.png,After_Encap/S12en.png,C,R,L,18.10054,15.9062
+S13,FTO/CB-TiO2/MP-TiO2/Triple Cation/Spiro/Au,Before_Encap/S13.png,After_Encap/S13en.png,A,R,L,16.44084,17.63032
+S13,FTO/CB-TiO2/MP-TiO2/Triple Cation/Spiro/Au,Before_Encap/S13.png,After_Encap/S13en.png,B,R,L,17.77078,16.20472
+S13,FTO/CB-TiO2/MP-TiO2/Triple Cation/Spiro/Au,Before_Encap/S13.png,After_Encap/S13en.png,C,R,L,17.63256,15.11027
+S14,FTO/CB-TiO2/MP-TiO2/Triple Cation/Spiro/Au,Before_Encap/S14.png,After_Encap/S14en.png,A,R,L,15.86781,16.6321
+S14,FTO/CB-TiO2/MP-TiO2/Triple Cation/Spiro/Au,Before_Encap/S14.png,After_Encap/S14en.png,B,R,L,17.86594,16.94553
+S14,FTO/CB-TiO2/MP-TiO2/Triple Cation/Spiro/Au,Before_Encap/S14.png,After_Encap/S14en.png,C,R,L,17.39394,16.34561
+S15,FTO/CB-TiO2/MP-TiO2/Triple Cation/Spiro/Au,Before_Encap/S15.png,After_Encap/S15en.png,A,R,L,16.78135,16.89366
+S15,FTO/CB-TiO2/MP-TiO2/Triple Cation/Spiro/Au,Before_Encap/S15.png,After_Encap/S15en.png,B,R,L,17.7258,16.77123
+S15,FTO/CB-TiO2/MP-TiO2/Triple Cation/Spiro/Au,Before_Encap/S15.png,After_Encap/S15en.png,C,R,L,16.90426,16.69777
+S16,FTO/CB-TiO2/MP-TiO2/Triple Cation/Spiro/Au,Before_Encap/S16.png,After_Encap/S16en.png,A,R,L,17.9758,17.35787
+S16,FTO/CB-TiO2/MP-TiO2/Triple Cation/Spiro/Au,Before_Encap/S16.png,After_Encap/S16en.png,B,R,L,18.21719,17.07301
+S16,FTO/CB-TiO2/MP-TiO2/Triple Cation/Spiro/Au,Before_Encap/S16.png,After_Encap/S16en.png,C,R,L,17.93637,15.68678
+S17,FTO/C-TiO2/m-TiO2 doped Li/Perovskite/Spiro-OmeTAD/Au,Before_Encap/S17.png,After_Encap/S17en.png,B,R,L,1.56453112705511,8.59836367608889
+S17,FTO/C-TiO2/m-TiO2 doped Li/Perovskite/Spiro-OMeTAD/Au ,Before_Encap/S17.png,After_Encap/S17en.png,A,R,L,1.16492832294233,7.703293391696
+S18,FTO/C-TiO2/m-TiO2 doped Li/Perovskite/Spiro-OMeTAD/Au ,Before_Encap/S18.png,After_Encap/S18en.png,B,R,L,15.6322826165867,7.83549107176178
+S18,FTO/C-TiO2/m-TiO2 doped Li/Perovskite/Spiro-OMeTAD/Au ,Before_Encap/S18.png,After_Encap/S18en.png,A,R,L,14.7507061756389,7.20528365955767
+S18,FTO/C-TiO2/m-TiO2 doped Li/Perovskite/Spiro-OMeTAD/Au ,Before_Encap/S18.png,After_Encap/S18en.png,C,R,L,14.0538428922544,10.9829507768967
+S19,FTO/C-TiO2/m-TiO2 doped Li/Perovskite/Spiro-OMeTAD/Au ,Before_Encap/S19.png,After_Encap/S19en.png,A,R,L,0.01100412249232,0.010959035165213
+S19,FTO/C-TiO2/m-TiO2 doped Li/Perovskite/Spiro-OMeTAD/Au ,Before_Encap/S19.png,After_Encap/S19en.png,B,R,L,4.53771439229889,10.3543141262311
+S20,FTO/C-TiO2/m-TiO2/Cs0.05FA0.79MA0.16Pb(I0.86Br0.14)3/ Spiro-OMeTAD/Au,Before_Encap/S20.png,After_Encap/S20en.png,A,R,L,16.16,17.65
+S20,FTO/C-TiO2/m-TiO2/Cs0.05FA0.79MA0.16Pb(I0.86Br0.14)3/ Spiro-OMeTAD/Au,Before_Encap/S20.png,After_Encap/S20en.png,B,R,L,14.41,18.77
+S20,FTO/C-TiO2/m-TiO2/Cs0.05FA0.79MA0.16Pb(I0.86Br0.14)3/ Spiro-OMeTAD/Au,Before_Encap/S20.png,After_Encap/S20en.png,C,R,L,17.53,18.92
+Pr1,Glass/C-TiO2/m-TiO2/Cs0.05FA0.79MA0.16Pb(I0.86Br0.14)3/ Spiro-OMeTAD/Au,Before_Encap/Pr1.png,After_Encap/Pr1en.png,A,R,L,16.1,12.52
+Pr1,Glass/C-TiO2/m-TiO2/Cs0.05FA0.79MA0.16Pb(I0.86Br0.14)3/ Spiro-OMeTAD/Au,Before_Encap/Pr1.png,After_Encap/Pr1en.png,B,R,L,7.24,6.5
+Pr1,Glass/C-TiO2/m-TiO2/Cs0.05FA0.79MA0.16Pb(I0.86Br0.14)3/ Spiro-OMeTAD/Au,Before_Encap/Pr1.png,After_Encap/Pr1en.png,C,R,L,17.64,17.69
+Pr2,Glass/C-TiO2/m-TiO2/Cs0.05FA0.79MA0.16Pb(I0.86Br0.14)3/ Spiro-OMeTAD/Au,Before_Encap/Pr2.png,After_Encap/Pr2en.png,A,R,L,15.63,17.56
+Pr2,Glass/C-TiO2/m-TiO2/Cs0.05FA0.79MA0.16Pb(I0.86Br0.14)3/ Spiro-OMeTAD/Au,Before_Encap/Pr2.png,After_Encap/Pr2en.png,B,R,L,17.22,18.12
+Pr2,Glass/C-TiO2/m-TiO2/Cs0.05FA0.79MA0.16Pb(I0.86Br0.14)3/ Spiro-OMeTAD/Au,Before_Encap/Pr2.png,After_Encap/Pr2en.png,C,R,L,16.27,17.89
+Cu1,FTO/CB-TiO2/MP-TiO2/Triple Cation/CuSCN/Au,Before_Encap/Cu1.png,After_Encap/Cu1en.png,A,R,L,17.01267,13.73242
+Cu1,FTO/CB-TiO2/MP-TiO2/Triple Cation/CuSCN/Au,Before_Encap/Cu1.png,After_Encap/Cu1en.png,B,R,L,16.32202,14.75207
+Cu1,FTO/CB-TiO2/MP-TiO2/Triple Cation/CuSCN/Au,Before_Encap/Cu1.png,After_Encap/Cu1en.png,C,R,L,15.69373,9.168269
+Cu2,FTO/CB-TiO2/MP-TiO2/Triple Cation/CuSCN/Au,Before_Encap/Cu2.png,After_Encap/Cu2en.png,A,R,L,15.70415,13.18345
+Cu2,FTO/CB-TiO2/MP-TiO2/Triple Cation/CuSCN/Au,Before_Encap/Cu2.png,After_Encap/Cu2en.png,B,R,L,15.58985,13.80144
+Cu2,FTO/CB-TiO2/MP-TiO2/Triple Cation/CuSCN/Au,Before_Encap/Cu2.png,After_Encap/Cu2en.png,C,R,L,14.67323,8.582545
+Cu3,FTO/CB-TiO2/MP-TiO2/Triple Cation/CuSCN/Au,Before_Encap/Cu3.png,After_Encap/Cu3en.png,A,R,L,13.67753,12.90101
+Cu3,FTO/CB-TiO2/MP-TiO2/Triple Cation/CuSCN/Au,Before_Encap/Cu3.png,After_Encap/Cu3en.png,B,R,L,14.79977,14.43985
+Cu3,FTO/CB-TiO2/MP-TiO2/Triple Cation/CuSCN/Au,Before_Encap/Cu3.png,After_Encap/Cu3en.png,C,R,L,15.02067,9.299509
+Cu4,FTO/CB-TiO2/MP-TiO2/Triple Cation/CuSCN/Au,Before_Encap/Cu4.png,After_Encap/Cu4en.png,A,R,L,15.56761,13.05355
+Cu4,FTO/CB-TiO2/MP-TiO2/Triple Cation/CuSCN/Au,Before_Encap/Cu4.png,After_Encap/Cu4en.png,B,R,L,15.4565,9.519791
+Cu4,FTO/CB-TiO2/MP-TiO2/Triple Cation/CuSCN/Au,Before_Encap/Cu4.png,After_Encap/Cu4en.png,C,R,L,15.17566,12.08728
+Cu5,FTO/CB-TiO2/MP-TiO2/Triple Cation/CuSCN/Au,Before_Encap/Cu5.png,After_Encap/Cu5en.png,A,R,L,13.4949,10.33152
+Cu5,FTO/CB-TiO2/MP-TiO2/Triple Cation/CuSCN/Au,Before_Encap/Cu5.png,After_Encap/Cu5en.png,B,R,L,16.84228,13.78195
+Cu5,FTO/CB-TiO2/MP-TiO2/Triple Cation/CuSCN/Au,Before_Encap/Cu5.png,After_Encap/Cu5en.png,C,R,L,9.734857,8.694616
+Cu6,FTO/CB-TiO2/MP-TiO2/Triple Cation/CuSCN/Au,Before_Encap/Cu6.png,After_Encap/Cu6en.png,A,R,L,13.82748,11.42064
+Cu6,FTO/CB-TiO2/MP-TiO2/Triple Cation/CuSCN/Au,Before_Encap/Cu6.png,After_Encap/Cu6en.png,B,R,L,16.41483,13.97514
+Cu6,FTO/CB-TiO2/MP-TiO2/Triple Cation/CuSCN/Au,Before_Encap/Cu6.png,After_Encap/Cu6en.png,C,R,L,16.08726,13.17596
+Cu7,FTO/CB-TiO2/MP-TiO2/Triple Cation/CuSCN/Au,Before_Encap/Cu7.png,After_Encap/Cu7en.png,A,R,L,16.41352,6.454735
+Cu7,FTO/CB-TiO2/MP-TiO2/Triple Cation/CuSCN/Au,Before_Encap/Cu7.png,After_Encap/Cu7en.png,B,R,L,15.6058,13.73921
+Cu7,FTO/CB-TiO2/MP-TiO2/Triple Cation/CuSCN/Au,Before_Encap/Cu7.png,After_Encap/Cu7en.png,C,R,L,14.53609,7.843762
+Cu8,FTO/CB-TiO2/MP-TiO2/Triple Cation/CuSCN/Au,Before_Encap/Cu8.png,After_Encap/Cu8en.png,A,R,L,9.298724,6.280061
+Cu8,FTO/CB-TiO2/MP-TiO2/Triple Cation/CuSCN/Au,Before_Encap/Cu8.png,After_Encap/Cu8en.png,B,R,L,15.50419,9.55875
+Cu8,FTO/CB-TiO2/MP-TiO2/Triple Cation/CuSCN/Au,Before_Encap/Cu8.png,After_Encap/Cu8en.png,C,R,L,15.0738,9.423576
+Cu9,FTO/C-TiO2/m-TiO2/Cs0.05FA0.79MA0.16Pb(I0.86Br0.14)3/CuSCN /Au,Before_Encap/Cu9.png,After_Encap/Cu9en.png,A,R,L,14.26,16.4535906
+Cu9,FTO/C-TiO2/m-TiO2/Cs0.05FA0.79MA0.16Pb(I0.86Br0.14)3/CuSCN /Au,Before_Encap/Cu9.png,After_Encap/Cu9en.png,B,R,L,14.34,16.3129154
+Cu9,FTO/C-TiO2/m-TiO2/Cs0.05FA0.79MA0.16Pb(I0.86Br0.14)3/CuSCN /Au,Before_Encap/Cu9.png,After_Encap/Cu9en.png,C,R,L,12.52,15.6410392
+Sn9,FTO/SnO2/Triple Cation/Spiro/Au,Before_Encap/Sn9.png,After_Encap/Sn9en.png,A,R,L,6.599325,5.880285
+Sn9,FTO/SnO2/Triple Cation/Spiro/Au,Before_Encap/Sn9.png,After_Encap/Sn9en.png,B,R,L,10.40624,11.93723
+Sn9,FTO/SnO2/Triple Cation/Spiro/Au,Before_Encap/Sn9.png,After_Encap/Sn9en.png,C,R,L,6.671717,6.01673
+Sn10,FTO/SnO2/Triple Cation/Spiro/Au,Before_Encap/Sn10.png,After_Encap/Sn10en.png,A,R,L,1.330582,1.36222
+Sn10,FTO/SnO2/Triple Cation/Spiro/Au,Before_Encap/Sn10.png,After_Encap/Sn10en.png,B,R,L,5.858238,3.312889
+Sn10,FTO/SnO2/Triple Cation/Spiro/Au,Before_Encap/Sn10.png,After_Encap/Sn10en.png,C,R,L,12.30389,10.30935
+Sn11,FTO/SnO2/Triple Cation/Spiro/Au,Before_Encap/Sn11.png,After_Encap/Sn11en.png,A,R,L,13.31069,7.563878
+Sn11,FTO/SnO2/Triple Cation/Spiro/Au,Before_Encap/Sn11.png,After_Encap/Sn11en.png,B,R,L,5.67737,5.571686
+Sn11,FTO/SnO2/Triple Cation/Spiro/Au,Before_Encap/Sn11.png,After_Encap/Sn11en.png,C,R,L,13.64642,11.63475
+Sn12,FTO/SnO2/Triple Cation/Spiro/Au,Before_Encap/Sn12.png,After_Encap/Sn12en.png,A,R,L,8.490718,8.858709
+Sn12,FTO/SnO2/Triple Cation/Spiro/Au,Before_Encap/Sn12.png,After_Encap/Sn12en.png,B,R,L,13.34772,13.84772
+Sn12,FTO/SnO2/Triple Cation/Spiro/Au,Before_Encap/Sn12.png,After_Encap/Sn12en.png,C,R,L,11.3731,10.57621
+Sn13,FTO/SnO2/Triple Cation/Spiro/Au,Before_Encap/Sn13.png,After_Encap/Sn13en.png,A,R,L,12.29911,11.08382
+Sn13,FTO/SnO2/Triple Cation/Spiro/Au,Before_Encap/Sn13.png,After_Encap/Sn13en.png,B,R,L,9.303138,7.64981
+Sn13,FTO/SnO2/Triple Cation/Spiro/Au,Before_Encap/Sn13.png,After_Encap/Sn13en.png,C,R,L,15.54639,15.02509
+Sn14,FTO/SnO2/Triple Cation/Spiro/Au,Before_Encap/Sn14.png,After_Encap/Sn14en.png,A,R,L,15.12185,12.9087
+Sn14,FTO/SnO2/Triple Cation/Spiro/Au,Before_Encap/Sn14.png,After_Encap/Sn14en.png,B,R,L,13.50658,11.83231
+Sn14,FTO/SnO2/Triple Cation/Spiro/Au,Before_Encap/Sn14.png,After_Encap/Sn14en.png,C,R,L,12.66815,16.19602
+Sn15,FTO/SnO2/Triple Cation/Spiro/Au,Before_Encap/Sn15.png,After_Encap/Sn15en.png,A,R,L,13.20612,15.26613
+Sn15,FTO/SnO2/Triple Cation/Spiro/Au,Before_Encap/Sn15.png,After_Encap/Sn15en.png,B,R,L,14.21507,16.19861
+Sn15,FTO/SnO2/Triple Cation/Spiro/Au,Before_Encap/Sn15.png,After_Encap/Sn15en.png,C,R,L,16.70227,15.83177
+Sn16,FTO/SnO2/Triple Cation/Spiro/Au,Before_Encap/Sn16.png,After_Encap/Sn16en.png,A,R,L,11.70475,9.889041
+Sn16,FTO/SnO2/Triple Cation/Spiro/Au,Before_Encap/Sn16.png,After_Encap/Sn16en.png,B,R,L,15.05331,12.97486
+Sn16,FTO/SnO2/Triple Cation/Spiro/Au,Before_Encap/Sn16.png,After_Encap/Sn16en.png,C,R,L,11.37359,14.71117
+RK1,FTO/C-TiO2/m-TiO2 doped Li /Perovskite/RK/Spiro-OMeTAD/Au ,Before_Encap/RK1.png,After_Encap/RK1en.png,A,R,L,0.942226548479667,1.922387399864
+RK1,FTO/C-TiO2/m-TiO2 doped Li /Perovskite/RK/Spiro-OMeTAD/Au ,Before_Encap/RK1.png,After_Encap/RK1en.png,B,R,L,1.94647132209333,2.26077807509067
+RK1,FTO/C-TiO2/m-TiO2 doped Li /Perovskite/RK/Spiro-OMeTAD/Au ,Before_Encap/RK1.png,After_Encap/RK1en.png,C,R,L,1.812021469818,1.40380404568067
+RK2,FTO/C-TiO2/m-TiO2 doped Li /Perovskite/RK/Spiro-OMeTAD/Au ,Before_Encap/RK2.png,After_Encap/RK2en.png,A,R,L,10.8571548905278,6.20137007465833
+RK2,FTO/C-TiO2/m-TiO2 doped Li /Perovskite/RK/Spiro-OMeTAD/Au ,Before_Encap/RK2.png,After_Encap/RK2en.png,B,R,L,9.41806370054667,8.98993639775
+RK2,FTO/C-TiO2/m-TiO2 doped Li /Perovskite/RK/Spiro-OMeTAD/Au ,Before_Encap/RK2.png,After_Encap/RK2en.png,C,R,L,7.58441962156667,8.66059792778444
+2DPS1,FTO/C-TiO2/m-TiO2/Cs0.05FA0.79MA0.16Pb(I0.86Br0.14)3/2D perovskite/ Spiro-OMeTAD/Au,Before_Encap/2DPS1.png,After_Encap/2DPS1en.png,A,R,L,17.73,17.39
+2DPS1,FTO/C-TiO2/m-TiO2/Cs0.05FA0.79MA0.16Pb(I0.86Br0.14)3/2D perovskite/ Spiro-OMeTAD/Au,Before_Encap/2DPS1.png,After_Encap/2DPS1en.png,B,R,L,17.98,18.13
+2DPS1,FTO/C-TiO2/m-TiO2/Cs0.05FA0.79MA0.16Pb(I0.86Br0.14)3/2D perovskite/ Spiro-OMeTAD/Au,Before_Encap/2DPS1.png,After_Encap/2DPS1en.png,C,R,L,12.3,18.08
+2DPCu1,FTO/C-TiO2/m-TiO2/Cs0.05FA0.79MA0.16Pb(I0.86Br0.14)3/2D perovskite/CuSCN /Au,Before_Encap/2DPCu1.png,After_Encap/2DPCu1en.png,A,R,L,6.81,16.07
+2DPCu1,FTO/C-TiO2/m-TiO2/Cs0.05FA0.79MA0.16Pb(I0.86Br0.14)3/2D perovskite/CuSCN /Au,Before_Encap/2DPCu1.png,After_Encap/2DPCu1en.png,B,R,L,13.63,16.84
+2DPCu1,FTO/C-TiO2/m-TiO2/Cs0.05FA0.79MA0.16Pb(I0.86Br0.14)3/2D perovskite/CuSCN /Au,Before_Encap/2DPCu1.png,After_Encap/2DPCu1en.png,C,R,L,15.04,17.25
+5Trypt1,Glass/C-TiO2/m-TiO2/Cs0.05FA0.79MA0.16Pb(I0.86Br0.14)3/5mMTryptophan/ Spiro-OMeTAD/Au,Before_Encap/5Trypt1.png,After_Encap/5Trypt1en.png,A,R,L,11.95,10.4
+5Trypt1,Glass/C-TiO2/m-TiO2/Cs0.05FA0.79MA0.16Pb(I0.86Br0.14)3/5mMTryptophan/ Spiro-OMeTAD/Au,Before_Encap/5Trypt1.png,After_Encap/5Trypt1en.png,B,R,L,12.6,11.62
+5Trypt1,Glass/C-TiO2/m-TiO2/Cs0.05FA0.79MA0.16Pb(I0.86Br0.14)3/5mMTryptophan/ Spiro-OMeTAD/Au,Before_Encap/5Trypt1.png,After_Encap/5Trypt1en.png,C,R,L,13.46,11.37
+5Trypt2,Glass/C-TiO2/m-TiO2/Cs0.05FA0.79MA0.16Pb(I0.86Br0.14)3/5mMTryptophan/ Spiro-OMeTAD/Au,Before_Encap/5Trypt2.png,After_Encap/5Trypt2en.png,A,R,L,13.55,4.62
+5Trypt2,Glass/C-TiO2/m-TiO2/Cs0.05FA0.79MA0.16Pb(I0.86Br0.14)3/5mMTryptophan/ Spiro-OMeTAD/Au,Before_Encap/5Trypt2.png,After_Encap/5Trypt2en.png,B,R,L,15.2,6.5
+5Trypt2,Glass/C-TiO2/m-TiO2/Cs0.05FA0.79MA0.16Pb(I0.86Br0.14)3/5mMTryptophan/ Spiro-OMeTAD/Au,Before_Encap/5Trypt2.png,After_Encap/5Trypt2en.png,C,R,L,6.4,6.45
+15Trypt1,Glass/C-TiO2/m-TiO2/Cs0.05FA0.79MA0.16Pb(I0.86Br0.14)3/15mMTryptophan/ Spiro-OMeTAD/Au,Before_Encap/15Trypt1.png,After_Encap/15Trypt1en.png,A,R,L,5.69,6.43
+15Trypt1,Glass/C-TiO2/m-TiO2/Cs0.05FA0.79MA0.16Pb(I0.86Br0.14)3/15mMTryptophan/ Spiro-OMeTAD/Au,Before_Encap/15Trypt1.png,After_Encap/15Trypt1en.png,B,R,L,3.89,5.72
+15Trypt1,Glass/C-TiO2/m-TiO2/Cs0.05FA0.79MA0.16Pb(I0.86Br0.14)3/15mMTryptophan/ Spiro-OMeTAD/Au,Before_Encap/15Trypt1.png,After_Encap/15Trypt1en.png,C,R,L,7.93,7.17
+15Trypt2,Glass/C-TiO2/m-TiO2/Cs0.05FA0.79MA0.16Pb(I0.86Br0.14)3/15mMTryptophan/ Spiro-OMeTAD/Au,Before_Encap/15Trypt2.png,After_Encap/15Trypt2en.png,A,R,L,2.84,6.89
+15Trypt2,Glass/C-TiO2/m-TiO2/Cs0.05FA0.79MA0.16Pb(I0.86Br0.14)3/15mMTryptophan/ Spiro-OMeTAD/Au,Before_Encap/15Trypt2.png,After_Encap/15Trypt2en.png,B,R,L,2.85,7.51
+15Trypt2,Glass/C-TiO2/m-TiO2/Cs0.05FA0.79MA0.16Pb(I0.86Br0.14)3/15mMTryptophan/ Spiro-OMeTAD/Au,Before_Encap/15Trypt2.png,After_Encap/15Trypt2en.png,C,R,L,2.65,3.95
